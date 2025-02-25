@@ -55,7 +55,7 @@ The app fetches weather data from OpenWeather's API. Make sure to get your free 
 
 ## 🎨 UI Preview
 
-![Weather App Screenshot](https://via.placeholder.com/800x400.png?text=Weather+App+Preview)
+![Weather App Screenshot](public/Screenshot_188.jpg)
 
 ## 📝 License
 
